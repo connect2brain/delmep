@@ -1,0 +1,14 @@
+name: delmep
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - python=3.8
+  - scipy
+  - matplotlib
+  - pandas
+  - seaborn
+  - scikit-learn
+  - tensorflow
+  - keras
+  - pip
