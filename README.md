@@ -38,19 +38,19 @@ This is a research software. Details of the validation tests can be found in the
  
  # Contributions 
 
-- Diego Milardovich: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing.
-- Victor H. Souza: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing.
-- Ivan Zubarev: Conceptualization, Resources, Software, Methodology, Writing – review & editing.
-- Sergei Tugin: Data collection, Resources, Writing – review & editing.
-- Jaakko O. Nieminen: Resources, Writing – review & editing.
-- Claudia Bigoni: Data collection, Resources, Writing – review & editing.
-- Friedhelm C. Hummel: Data collection, Resources, Writing – review & editing.
-- Juuso T. Korhonen: Resources, Conceptualization, Methodology, Writing – review & editing.
-- Dogu B. Aydogan: Writing – review & editing.
-- Pantelis Lioumis: Data collection, Resources, Writing – review & editing.
-- Nima Taherinejad: Methodology, Formal analysis, Software, Writing – review & editing.
-- Tibor Grasser: Writing – review & editing.
-- Risto J. Ilmoniemi: Conceptualization, Writing – review & editing.
+- Diego Milardovich <a href="https://orcid.org/0000-0003-2453-1693"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50"></a> 
+- Victor H. Souza
+- Ivan Zubarev
+- Sergei Tugin
+- Jaakko O. Nieminen
+- Claudia Bigoni
+- Friedhelm C. Hummel
+- Juuso T. Korhonen
+- Dogu B. Aydogan
+- Pantelis Lioumis
+- Nima Taherinejad
+- Tibor Grasser
+- Risto J. Ilmoniemi
 
 # Related institutions
 
