@@ -36,21 +36,22 @@ If you use this code, we kindly ask you to cite our paper in Scientific Reports 
 
 This is a research software. Details of the validation tests can be found in the related paper, but no warranty of any kind is given.
  
- # Contributions 
+ # Contributors 
 
-- Diego Milardovich <a href="https://orcid.org/0000-0003-2453-1693"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="50" height="50"></a> 
-- Victor H. Souza
-- Ivan Zubarev
-- Sergei Tugin
-- Jaakko O. Nieminen
-- Claudia Bigoni
-- Friedhelm C. Hummel
-- Juuso T. Korhonen
-- Dogu B. Aydogan
-- Pantelis Lioumis
-- Nima Taherinejad
-- Tibor Grasser
-- Risto J. Ilmoniemi
+<a href="https://orcid.org/0000-0003-2453-1693"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Diego Milardovich 
+<a href="https://orcid.org/0000-0002-0254-4322"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Victor H. Souza
+
+<a href="https://orcid.org/0000-0002-1620-8485"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Ivan Zubarev
+<a href="https://orcid.org/0000-0002-1274-8863"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Sergei Tugin
+<a href="https://orcid.org/0000-0002-7826-3519"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Jaakko O. Nieminen
+<a href="https://orcid.org/0000-0002-5142-5434"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Claudia Bigoni
+<a href="https://orcid.org/0000-0002-4746-4633"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Friedhelm C. Hummel
+<a href="https://orcid.org/0000-0001-7802-7084"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Juuso T. Korhonen
+<a href="https://orcid.org/0000-0002-7840-3294"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Dogu B. Aydogan
+<a href="https://orcid.org/0000-0003-2016-9199"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Pantelis Lioumis
+<a href="https://orcid.org/0000-0002-1295-0332"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Nima Taherinejad
+<a href="https://orcid.org/0000-0001-6536-2238"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Tibor Grasser
+<a href="https://orcid.org/0000-0002-3340-2618"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/orcid.svg" width="15" height="15"></a> Risto J. Ilmoniemi
 
 # Related institutions
 
