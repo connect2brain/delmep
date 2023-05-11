@@ -4,16 +4,21 @@ DELMEP is a deep learning-based Python code to automate the annotation of motor 
 
 
 # Use instructions 
-(I) Download the DELMEP script and the pre-trained neural network file.<br>
-(II) Import the DELMEP script into your Python code. Make sure the DELMEP script and the pre-trained neural network file are in your working directory.<br>
-(III) Resample your MEPs at 3000 Hz in the range of 10-50 ms after the TMS stimulation. Thus, your MEPs must be 120-dimensional vectors. This can be easily done with the signal.resample() function in the SciPy package.<br>
-(IV) Use the DELMEP function to estimate the latency of your resampled MEPs.
+
+1. Download the DELMEP script and the pre-trained neural network file.
+2. Import the DELMEP script into your Python code. Make sure the DELMEP script and the pre-trained neural network file are in your working directory.
+3. Resample your MEPs at 3000 Hz in the range of 10-50 ms after the TMS stimulation. Thus, your MEPs must be 120-dimensional vectors. This can be easily done with the signal.resample() function in the SciPy package.
+4. Use the DELMEP function to estimate the latency of your resampled MEPs.
  
 # License
+
 This project is primarily licensed under the GNU Lesser General Public License v3.0. Note that the software is provided "as is" without warranty of any kind, express or implied. If you use the code or data, please cite us.
 
 # Reference
-If you use this code, we kindly ask you to cite Milardovich et al., 2023 (doi: 10.1038/s41598-023-34801-9). 
+
+:warning: **Manuscript has been accepted but not published yet. It will soon be available in the reference below.**
+
+If you use this code, we kindly ask you to cite our paper in Scientific Reports (Milardovich et al., 2023; DOI: [10.1038/s41598-023-34801-9](https://dx.doi.org/10.1038/s41598-023-34801-9)). 
  
  ```
  @article{DELMEP,
@@ -28,10 +33,31 @@ If you use this code, we kindly ask you to cite Milardovich et al., 2023 (doi: 1
 ```
 
 # Disclaimer 
+
 This is a research software. Details of the validation tests can be found in the related paper, but no warranty of any kind is given.
  
  # Contributions 
-D.M.: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing. V.H.S.: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing. I.Z.: Conceptualization, Resources, Software, Methodology, Writing – review & editing. S.T.: Data collection, Resources, Writing – review & editing. J.O.N.: Resources, Writing – review & editing. C.B.: Data collection, Resources, Writing – review & editing. F.C.H.: Data collection, Resources, Writing – review & editing.  J.T.K.: Resources, Conceptualization, Methodology, Writing – review & editing. D.A.: Writing – review & editing. P.L.: Data collection, Resources, Writing – review & editing. N.T.: Methodology, Formal analysis, Software, Writing – review & editing. T.G.: Writing – review & editing. R.J.I.: Conceptualization, Writing – review & editing.
+
+- Diego Milardovich: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing.
+- Victor H. Souza: Conceptualization, Methodology, Investigation, Formal analysis, Software, Resources, Visualization, Writing – original draft, Writing – review & editing.
+- Ivan Zubarev: Conceptualization, Resources, Software, Methodology, Writing – review & editing.
+- Sergei Tugin: Data collection, Resources, Writing – review & editing.
+- Jaakko O. Nieminen: Resources, Writing – review & editing.
+- Claudia Bigoni: Data collection, Resources, Writing – review & editing.
+- Friedhelm C. Hummel: Data collection, Resources, Writing – review & editing.
+- Juuso T. Korhonen: Resources, Conceptualization, Methodology, Writing – review & editing.
+- Dogu B. Aydogan: Writing – review & editing.
+- Pantelis Lioumis: Data collection, Resources, Writing – review & editing.
+- Nima Taherinejad: Methodology, Formal analysis, Software, Writing – review & editing.
+- Tibor Grasser: Writing – review & editing.
+- Risto J. Ilmoniemi: Conceptualization, Writing – review & editing.
+
+# Related institutions
+
+- Aalto University, Finland
+- Technische Universität Wien, Austria
+- BioMag Laboratory, Finland
+- École Polytechnique Fédérale de Lausanne (EPFL), Switzerland
 
 ## Releases
 
