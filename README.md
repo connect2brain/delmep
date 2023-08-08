@@ -16,19 +16,18 @@ This project is primarily licensed under the GNU Lesser General Public License v
 
 # Reference
 
-:warning: **Manuscript has been accepted but not published yet. It will soon be available in the reference below.**
-
 If you use this code, we kindly ask you to cite our paper in Scientific Reports (Milardovich et al., 2023; DOI: [10.1038/s41598-023-34801-9](https://dx.doi.org/10.1038/s41598-023-34801-9)). 
  
  ```
  @article{DELMEP,
-    title = {DELMEP: A deep learning algorithm for automated annotation of motor evoked potential latencies},
+    title = {DELMEP: a deep learning algorithm for automated annotation of motor evoked potential latencies},
     author = {Milardovich, Diego and Souza, Victor H. and Zubarev, Ivan and Tugin, Sergei and Nieminen, Jaakko O. and Bigoni, Claudia and Hummel, Friedhelm C. and Korhonen, Juuso T. and Aydogan, Dogu B. and Lioumis, Pantelis and Taherinejad, Nima and Grasser, Tibor and Ilmoniemi, Risto J.},
-    journal = {Nature Scientific Reports},
+    journal = {Scientific Reports},
     year = {2023},
-    volume = {TBD},
-    issue = {TBD},
-    url = {TBD},
+    volume = {13},
+    issue = {1},
+    pages = {8225},
+    url = {https://doi.org/10.1038/s41598-023-34801-9},
     doi = {10.1038/s41598-023-34801-9}}
 ```
 
